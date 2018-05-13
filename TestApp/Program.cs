@@ -11,6 +11,7 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is test application");
+            Console.WriteLine("Help string");
             Console.ReadLine();
         }
     }
